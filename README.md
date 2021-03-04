@@ -16,31 +16,37 @@ Once the x time is up, the smart contract variable *alarmDone* is updated to tru
 Installation process:
 
 1. Create a initial project:
-    npm init -y
-    
-    
+   ** npm init -y**
+
 
 2. Init a truffle project:
-    truffle init
+    **truffle init**
 
-3. Install HDWalletProvider:
 
-4. Configure file truffle-config.js:
-    npm install truffle-hdwallet-provider
+3. Configure file truffle-config.js:
+
+
+4. Install HDWalletProvider:
+   ** npm install truffle-hdwallet-provider**
+
 
 5. Install ChainlinkClient.sol:
-    nmp i @chainlink/contracts
+    **nmp i @chainlink/contracts**
+
 
 6. Compile project:
-    truffle compile
+  **  truffle compile**
+
 
 7. Deploy Clock.sol contract to Kovan testnet:
-    truffle migrate --reset --network kovan
+   ** truffle migrate --reset --network kovan**
 
 
 ------------
 
 Clock.sol address is already deployed to Kovan testnet at address:
     0x8f4b246C5074d743F401265C3DF90cC0E8059e96
+
+
 
 
