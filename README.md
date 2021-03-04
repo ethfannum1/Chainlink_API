@@ -35,7 +35,7 @@ Installation process:
 
 
 6. Compile project:
-  ** truffle compile**
+  **truffle compile**
 
 
 7. Deploy Clock.sol contract to Kovan testnet:
@@ -46,6 +46,8 @@ Installation process:
 
 Clock.sol address is already deployed to Kovan testnet at address:
     0x8f4b246C5074d743F401265C3DF90cC0E8059e96
+
+
 
 
 
