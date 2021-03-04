@@ -17,6 +17,8 @@ Installation process:
 
 1. Create a initial project:
     npm init -y
+    
+    
 
 2. Init a truffle project:
     truffle init
@@ -40,3 +42,5 @@ Installation process:
 
 Clock.sol address is already deployed to Kovan testnet at address:
     0x8f4b246C5074d743F401265C3DF90cC0E8059e96
+
+
