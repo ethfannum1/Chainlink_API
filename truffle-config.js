@@ -26,22 +26,6 @@
 
 
 
-/* -------------------------------------------------------------------
-Usado por Alberto Lasa, pero a mí me da error:
-
-require('dotenv').config();
-
-
-const PRIVATE_KEY_KOVAN = process.env.PRIVATE_KEY_KOVAN;
-const INFURA_ID_KOVAN = process.env.INFURA_ID_KOVAN;
-------------------------------------------------------------------- */
-
-
-/* -------------------------------------------------------------------
-Usado por Alberto Lasa, pero a mí me da error:
-
-var HDWalletProvider = require("truffle-hdwallet-provider-privkey");
-------------------------------------------------------------------- */
 
 var HDWalletProvider = require("truffle-hdwallet-provider"); 
 
@@ -96,15 +80,6 @@ module.exports = {
     // production: true    // Treats this network as if it was a public net. (default: false)
     // }
 
-
-        /* -------------------------------------------------------------------------------------------------------------
-        Usado por Alberto Lasa, pero a mí me da error:
-
-        kovan: {
-            provider: () => new HDWalletProvider([PRIVATE_KEY_KOVAN], 'https://kovan.infura.io/v3/${INFURA_ID_KOVAN}'),
-            network_id: 42
-        }
-        ------------------------------------------------------------------------------------------------------------- */
 
        
         kovan: {
