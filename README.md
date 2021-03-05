@@ -48,9 +48,6 @@ Clock.sol address is already deployed to Kovan testnet at address:
     0x8f4b246C5074d743F401265C3DF90cC0E8059e96
 
 
+[![](https://github.com/ethfannum1/Chainlink_API/blob/main/5.jpg)](https://github.com/ethfannum1/Chainlink_API/blob/main/5.jpg)
 
-
-
-
-
-
+[![](https://github.com/ethfannum1/Chainlink_API/blob/main/6.jpg)](https://github.com/ethfannum1/Chainlink_API/blob/main/6.jpg)
